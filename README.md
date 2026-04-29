@@ -1,5 +1,6 @@
 # AI-Based-Dental-Image-Segmentation-using-Segment-Anything-Model-SAM-
-Proof-of-concept for dental X-ray segmentation using a pre-trained SAM model
+A proof-of-concept system for automated dental X-ray segmentation using a pre-trained Segment Anything Model (SAM), demonstrating AI-assisted medical image analysis.
+
 ## 🧩 Project Overview
 
 - Developed a prototype dental imaging system using Segment Anything Model (SAM) for automated segmentation of dental X-ray images  
@@ -14,4 +15,22 @@ Proof-of-concept for dental X-ray segmentation using a pre-trained SAM model
 
 - Utilized computer vision and deep learning techniques without requiring custom model training or annotated datasets  
 
-- Built as a proof-of-concept system to demonstrate AI-assisted analysis and decision support in dental imaging  
+- Built as a proof-of-concept system to demonstrate AI-assisted analysis and decision support in dental imaging
+
+## 🛠 Tech Stack
+- Frontend: React Native (Expo)
+- Backend: Python
+- AI Model: Segment Anything Model (SAM)
+- Database: MySQL
+- Domain: Medical Imaging / Computer Vision
+
+## 🏗 System Architecture
+
+React Native (UI)
+        ↓
+Python Backend (SAM Processing)
+        ↓
+MySQL Database (Results Storage)
+
+## 📌 Note
+This is a proof-of-concept project and not deployed in production.
