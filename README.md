@@ -26,11 +26,7 @@ A proof-of-concept system for automated dental X-ray segmentation using a pre-tr
 
 ## 🏗 System Architecture
 
-React Native (UI)
-        ↓
-Python Backend (SAM Processing)
-        ↓
-MySQL Database (Results Storage)
+React Native (UI) -> Python Backend (SAM Processing) -> MySQL Database (Results Storage)
 
 ## 📌 Note
 This is a proof-of-concept project and not deployed in production.
