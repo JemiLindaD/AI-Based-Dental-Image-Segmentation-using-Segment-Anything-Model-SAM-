@@ -28,11 +28,6 @@ A proof-of-concept system for automated dental X-ray segmentation using a pre-tr
 
 The system generates pixel-level segmentation masks and overlays them on dental X-ray images for visual interpretation.
 
-### Sample Results
-![Result 1](proj 1.jpeg)
-![Result 2](proj 2.jpeg)
-![Result 3](proj 3.jpeg)
-
 ## 🏗 System Architecture
 
 React Native (UI) → Python (SAM-based Image Processing Backend) → MySQL (Result Storage)
